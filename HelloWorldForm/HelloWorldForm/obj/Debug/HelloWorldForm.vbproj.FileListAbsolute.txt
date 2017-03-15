@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\HelloWorldForm\HelloWorldForm\bin\Debug\HelloWorldForm.exe.config
+c:\users\user\documents\visual studio 2015\Projects\HelloWorldForm\HelloWorldForm\bin\Debug\HelloWorldForm.exe
+c:\users\user\documents\visual studio 2015\Projects\HelloWorldForm\HelloWorldForm\bin\Debug\HelloWorldForm.pdb
+c:\users\user\documents\visual studio 2015\Projects\HelloWorldForm\HelloWorldForm\bin\Debug\HelloWorldForm.xml
+c:\users\user\documents\visual studio 2015\Projects\HelloWorldForm\HelloWorldForm\obj\Debug\HelloWorldForm.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\HelloWorldForm\HelloWorldForm\obj\Debug\HelloWorldForm.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\HelloWorldForm\HelloWorldForm\obj\Debug\HelloWorldForm.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\HelloWorldForm\HelloWorldForm\obj\Debug\HelloWorldForm.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\HelloWorldForm\HelloWorldForm\obj\Debug\HelloWorldForm.exe
+c:\users\user\documents\visual studio 2015\Projects\HelloWorldForm\HelloWorldForm\obj\Debug\HelloWorldForm.xml
+c:\users\user\documents\visual studio 2015\Projects\HelloWorldForm\HelloWorldForm\obj\Debug\HelloWorldForm.pdb
